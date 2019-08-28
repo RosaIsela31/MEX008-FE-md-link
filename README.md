@@ -12,7 +12,7 @@ estadísticas de los mismos.
 
 Se muestra el diagrama de flujo que contiene el algoritmo para la solución del problema anterior.
 
-- [./images/flowchart.pdf](./images/flowchart.pdf)
+- [./images/flowchart.pdf](./images/flowchart.png)
 
 //------------------------------------------------------------------------
 # Markdown Links
