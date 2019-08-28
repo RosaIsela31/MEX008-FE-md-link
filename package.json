@@ -1,4 +1,25 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+  "name": "markdown-links",
+  "version": "0.1.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RosaIsela31/MEX008-FE-md-link.git"
+  },
+  "keywords": [
+    "'markdown-links'"
+  ],
+  "author": "Rosa Isela Palma <rosaislp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RosaIsela31/MEX008-FE-md-link/issues"
+  },
+  "homepage": "https://github.com/RosaIsela31/MEX008-FE-md-link#readme"
 }

@@ -1,5 +1,17 @@
 # Markdown Links
 
+**Markdown** es un tipo de lenguaje de marcado ligero, muy popular entre desarrolladores. 
+Un ejemplo de este tipo de archivos es el tradicional **README.md** que se encuentra en nuestros repositorios de Github. 
+
+Los archivos Markdown contienen varios links y muchas veces varios de ellos se encuentran rotos o ya no son válidos y eso perjudica el valor de lo que se quiere compartir. 
+
+La presente propuesta es una herramienta desarrollada en **Node.js** que lee y analiza archivos en formato **.md** y nos retorna el estatus del link y
+estadísticas de los mismos. 
+
+
+//------------------------------------------------------------------------
+# Markdown Links
+
 ## Índice
 
 * [1. Preámbulo](#1-preámbulo)
