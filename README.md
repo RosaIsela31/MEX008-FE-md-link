@@ -8,6 +8,11 @@ Los archivos Markdown contienen varios links y muchas veces varios de ellos se e
 La presente propuesta es una herramienta desarrollada en **Node.js** que lee y analiza archivos en formato **.md** y nos retorna el estatus del link y
 estadísticas de los mismos. 
 
+## Diagrama de flujo
+
+Se muestra el diagrama de flujo que contiene el algoritmo para la solución del problema anterior.
+
+- [flowchart.pdf](./images/flowchart.pdf)
 
 //------------------------------------------------------------------------
 # Markdown Links
