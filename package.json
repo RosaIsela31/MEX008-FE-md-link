@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "## Índice",
   "main": "index.js",
+  "bin": {
+    "md-Links": "./cli.js"
+  },
   "directories": {
     "test": "test"
   },
@@ -21,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/RosaIsela31/MEX008-FE-md-link/issues"
   },
-  "homepage": "https://github.com/RosaIsela31/MEX008-FE-md-link#readme"
+  "homepage": "https://github.com/RosaIsela31/MEX008-FE-md-link#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
