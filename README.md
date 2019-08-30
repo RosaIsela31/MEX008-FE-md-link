@@ -14,6 +14,12 @@ Se muestra el diagrama de flujo que contiene el algoritmo para la solución del 
 
 ![Flowchart](./images/flowchart.png)
 
+## Trello 
+
+A continuación se encuentra el tablero kanban ideado para la realización del proyecto
+
+![markdownTrello.png](./images/markdownTrello.png)
+
 ## Documentación Técnica de la Libreria
 
 | Especificaciones Técnicas       | 
