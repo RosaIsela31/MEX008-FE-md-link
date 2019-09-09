@@ -26,6 +26,9 @@
   },
   "homepage": "https://github.com/RosaIsela31/MEX008-FE-md-link#readme",
   "devDependencies": {
+    "color": "^3.1.2",
+    "eslint": "^6.3.0",
     "jest": "^24.9.0"
-  }
+  },
+  "dependencies": {}
 }

@@ -1,4 +1,5 @@
-const mdLinks = require('../index.js');
+const mdLinks1 = require('../index.js/index.js.js');
+const mdLinks = require('../mdLinks.js/index.js.js');
 
 // A. Un test que me compruebe que es una función √
 // B. Un test que me compruebe que se esta retornando una promesa
@@ -12,3 +13,4 @@ describe('mdLinks', () => {
     expect(typeof mdLinks).toBe('function');
   });
 });
+
