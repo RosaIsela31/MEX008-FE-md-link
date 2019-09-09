@@ -22,19 +22,25 @@ A continuación se encuentra el tablero kanban ideado para la realización del p
 
 ## Documentación Técnica de la Libreria
 
-| Especificaciones Técnicas       | 
+| Librería construida con:        | 
 | --------------------------------|
 | **Lenguaje**                    |
 | JavaScript                      |
+| **Ejecución**                   |
+| Node.js                         |
+| **Módulos de node**             |
+| Fyle System 'fs'                |
+| http.get                        |
+| https.get                       |
+| Path                            |
 | **Dependencias**                |
-|                                 |
-|                                 |
+| ESLint                          |
+| Jest                            |
 | **Otros**                       |
-|                                 |
-|                                 |
-|                                 |
-|                                 |
-|                                 |
+| module.exports                  |
+| RegEx                           |
+| CLI Command Line Interface      |
+
 
 ## Guía para la instalación de la librería 
 
