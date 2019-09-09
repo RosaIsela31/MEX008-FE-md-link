@@ -42,17 +42,17 @@ A continuación se encuentra el tablero kanban ideado para la realización del p
 
 
 ## Guía para la instalación de la librería 
-Utiliza el comando `**npm install --global <github-user>/md-links**` para instalar la librería. 
+Utiliza el comando `npm install --global <github-user>/md-links` para instalar la librería. 
 Considera que es necesario tener instalado node globalmente para ejecutar la instalación de la librería anterior.
 
 ## Guía de Uso 
-Utiliza el comando `**md-links**` más el nombre del archivo .md de tu interés,para usar la librería. 
-Ejemplo: `**md-links ./README.md**`
+Utiliza el comando `md-links` más el nombre del archivo .md de tu interés,para usar la librería. 
+Ejemplo: `md-links ./README.md`
 Con el comando anterior podrás obtener un arreglo de objetos con todos los links que se encuentren en el archivo escaneado.
 ![arrayObjects](./images/arrayObjects.png)
 
 También puedes validar los links con la opción **--validate**.
-Ejemplo: `**md-links ./README.md --validate**`
+Ejemplo: `md-links ./README.md --validate`
 Los links funcionales aparecerán con la palabra OK.
 ![statusLink](./images/statusLink.png)
 
@@ -61,17 +61,3 @@ Los links funcionales aparecerán con la palabra OK.
 
 * Rosa Isela López Palma
 
-## 10. Checklist
-
-### General
-
-- [ ] Puede instalarse via `npm install --global <github-user>/md-links`
-
-```sh
-$ md-links ./some/example.md --stats --validate
-Total: 3
-Unique: 3
-Broken: 1
-```
-
-[titulo](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Regular_Expressions)
