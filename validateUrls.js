@@ -8,7 +8,7 @@ const validateUrls = async (result) => {
         console.log(`${(element.status)}` + ' ' + `${(element.link)}` + `${(' fail ')}` + `${('title: ' + element.text2)}`)
         counterFail++;
       } else {
-        console.log(`${(element.status)}` + ' ' + `${(element.link)}` + `${(' ok ')}` + `${('title: ' + element.text2)}`)
+        console.log(`${(element.status)}` + ' ' + `${(element.link)}` + `${(' OK ')}` + `${('title: ' + element.text2)}`)
       }
 
     })

@@ -4,7 +4,7 @@
   "description": "## Índice",
   "main": "index.js",
   "bin": {
-    "md-Links": "./cli.js"
+    "md-links": "./cli.js"
   },
   "directories": {
     "test": "test"
